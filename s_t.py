@@ -100,10 +100,10 @@ if result:
     )
     if out_lang == "Inglés":
         output_language = "en"
-    elif out_lang == "Español":
-        output_language = "es"
-    elif out_lang == "Bengali":
-        output_language = "bn"
+    elif out_lang == "Francés":
+        output_language = "fr"
+    elif out_lang == "Alemán":
+        output_language = "de"
     elif out_lang == "Coreano":
         output_language = "ko"
     elif out_lang == "Mandarín":
